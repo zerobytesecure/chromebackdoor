@@ -1,0 +1,10 @@
+Update 09/12/16
+[+] Update CSS file
+[+] Thanks to "ricoxor" for code review and all new idea.
+Version 3.0
+[+] Python backdoor script generator.
+[+] INNO .exe (loader) builder.
+[+] Update webpanel file.
+[+] Rubber Ducky payload generator.
+[+] Firefox XPI added.
+[+] IExplorer BHO added.
